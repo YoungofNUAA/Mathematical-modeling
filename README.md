@@ -1,6 +1,7 @@
 # Mathematical-modeling
 
 2019年江苏省研究生数学建模创新实践大赛B题
+
 Mathmatical modeling for graduate studenti in Jiangsu Province
 
 乘坐高铁还是传统火车的行为分析
